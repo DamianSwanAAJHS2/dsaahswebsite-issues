@@ -1,6 +1,6 @@
 ---
 name: Mobile Bug report
-about: Issues with the embedded android app or webclient Choose this template!
+about: Issues ![logo](https://i.ibb.co/zGMJ67g/redissues.png)
 title: 'Android Bug Report: '
 labels: 'mobilebug'
 assignees: 'DamianSwanAAJHS2'
