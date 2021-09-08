@@ -1,5 +1,5 @@
 ---
-name: Mobile Bug report
+name: testissue
 about: Issues ![logo](https://i.ibb.co/zGMJ67g/redissues.png)
 title: 'Android Bug Report: '
 labels: 'mobilebug'
